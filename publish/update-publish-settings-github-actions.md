@@ -1,4 +1,7 @@
 ---
+lastSync: Thu Sep 12 2024 01:37:27 GMT-0400 (Eastern Daylight Time)
+---
+---
 title: "Update the Publish Settings"
 ---
 There are two things you can modify in the workflow. The publish directory and the blog repository.

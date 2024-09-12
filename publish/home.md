@@ -1,4 +1,7 @@
 ---
+lastSync: Thu Sep 12 2024 01:37:27 GMT-0400 (Eastern Daylight Time)
+---
+---
 title: "An Extendable Obsidian Publish alternative using Next.JS"
 excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
 ---
